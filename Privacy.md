@@ -33,7 +33,7 @@ We will retain your IP address only for as long as necessary to fulfill the purp
 We do not sell, trade, or rent your personal information to third parties. However, we may disclose your IP address to legal authorities or other third parties if required by law or if we believe in good faith that such disclosure is necessary to:
 
 - Comply with a legal obligation;
-- Protect and defend the rights or property of MEris午餐;
+- Protect and defend the rights or property of 兆能瑞时（常州）科技有限公司;
 - Prevent or investigate possible wrongdoing in connection with the App;
 - Protect the personal safety of users or the public.
 
@@ -98,7 +98,7 @@ Email: [it@meris-technology.com](mailto:it@meris-technology.com)
 我们不会将您的个人信息出售、交易或租赁给第三方。然而，在法律要求的情况下，或者如果我们出于诚信相信此类披露是必要的，我们可能会向法律当局或其他第三方披露您的IP地址：
 
 - 遵守法律义务；
-- 保护和捍卫MEris午餐的权利或财产；
+- 保护和捍卫兆能瑞时（常州）科技有限公司的权利或财产；
 - 防止或调查与本应用相关的潜在不当行为；
 - 保护用户或公众的个人安全。
 
