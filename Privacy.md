@@ -2,7 +2,7 @@
 
 **Last Updated:** 2024/Sep/14
 
-This Privacy Policy explains how MEris午餐 ("we", "our", or "us") collects, uses, and protects your personal information when you use our services. By accessing or using MEris午餐 (the "App"), you agree to the collection and use of your information in accordance with this Privacy Policy.
+This Privacy Policy explains how 兆能瑞时（常州）科技有限公司 ("we", "our", or "us") collects, uses, and protects your personal information when you use our services. By accessing or using MEris午餐 (the "App"), you agree to the collection and use of your information in accordance with this Privacy Policy.
 
 ## 1. Information We Collect
 
@@ -60,14 +60,14 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
 **MEris午餐**  
-**兆能瑞时（常州）有限公司**  
+**兆能瑞时（常州）科技有限公司**  
 Email: [it@meris-technology.com](mailto:it@meris-technology.com)
 
 # MEris午餐隐私政策
 
 **最后更新日期：** 2024/09/14
 
-本隐私政策解释了MEris午餐（“我们”、“我们的”或“本公司”）在您使用我们的服务时如何收集、使用和保护您的个人信息。通过访问或使用MEris午餐（“本应用”），您同意按照本隐私政策收集和使用您的信息。
+本隐私政策解释了兆能瑞时（常州）科技有限公司（“我们”、“我们的”或“本公司”）在您使用我们的服务时如何收集、使用和保护您的个人信息。通过访问或使用MEris午餐（“本应用”），您同意按照本隐私政策收集和使用您的信息。
 
 ## 1. 我们收集的信息
 
@@ -125,6 +125,6 @@ Email: [it@meris-technology.com](mailto:it@meris-technology.com)
 如果您对本隐私政策有任何问题或疑虑，请通过以下方式联系我们：
 
 **MEris午餐**  
-**兆能瑞时（常州）有限公司**  
+**兆能瑞时（常州）科技有限公司**  
 电子邮件：[it@meris-technology.com](mailto:it@meris-technology.com)
 
